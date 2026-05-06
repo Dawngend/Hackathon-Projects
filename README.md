@@ -1,32 +1,3 @@
-*Just swap the text and the image, and a brand-new character appears in the game!*
-
-[⬆️ Back to Top](#table-of-contents)
-
----
-
-## 📂 <a id="project-structure"></a>Project Structure
-
-Here is a quick look at how our project is organized under the hood:
-
-| Directory/File | Purpose |
-| :--- | :--- |
-| 📁 `data/` | Contains the `JSON` files (`story.json`, `characters.json`, `places.json`) that act as the brain of our game narrative. |
-| 📁 `css/` | Holds our stylesheets like `game.css` and `ui.css` to make the visual novel look beautiful. |
-| 📁 `js/` | Contains the core JavaScript engine that reads our data and makes the game interactive. |
-| 📄 `build.bat` / `.sh` | The executable scripts used to compile and build the game environment. |
-
-[⬆️ Back to Top](#table-of-contents)
-
----
-
-## 🙏 <a id="credits"></a>Credits
-
-A massive thank you to **[diane1f0cd](https://github.com/diane1f0cd)** for providing the incredible template and boilerplate codebase that made this project possible! 
-
-*Built with 💻 and ☕ by Team CRYteria.*To give your README that "expert" level of polish, we can use a combination of Markdown features and standard HTML tags. While GitHub restricts custom fonts (like Arial or Times New Roman) for security reasons, we can create the *illusion* of different fonts and styles by using `<code>` blocks, `<kbd>` tags for keyboard inputs, `<blockquote>` for emphasis, and anchor links for navigation.
-
-Here is the upgraded version with a clickable Table of Contents, code snippets, and varied typography formatting. You can copy and paste this directly into your `README.md` file!
-```markdown
 <div align="center">
   <h1>🌟 <strong>Placeholder</strong> 🌟</h1>
   <p><em>A narrative-driven visual novel project by Team <strong>CRYteria</strong></em></p>
