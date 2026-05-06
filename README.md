@@ -31,7 +31,7 @@ We are a team of **first-time hackathon participants** and **first-time AI users
 
 It’s completely web-based, meaning there’s nothing you need to install to play the game! Just click our live link below and play it directly in your browser.
 
-**🔗 [Play "Placeholder" Live Here](https://insert-your-live-url-here.com)**
+**🔗 [Play "Placeholder" Live Here](https://place-ecru.vercel.app/)**
 
 [⬆️ Back to Top](#table-of-contents)
 
